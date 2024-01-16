@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login, search and click second list of the news</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da8b1bc5-3aaa-4e29-96a0-197eef2e9334</testCaseGuid>
+</TestCaseEntity>
