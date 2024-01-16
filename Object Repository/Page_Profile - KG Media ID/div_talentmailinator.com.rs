@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_talentmailinator.com</name>
+   <tag></tag>
+   <elementGuidId>f620e8d0-ca68-488a-ba76-e16b2ad08418</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.profile-email</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='KG Media ID'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3312b8ce-7cd3-4cc8-a2b4-fc9d51722cd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile-email</value>
+      <webElementGuid>a39d5cd6-1537-4f3f-9fa1-3197b74d785d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>talent@mailinator.com</value>
+      <webElementGuid>670cc80d-2aa6-4a18-8b95-02f3e4b4edbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container -profile&quot;]/div[@class=&quot;container -profile&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;profile-header&quot;]/div[@class=&quot;profile-email&quot;]</value>
+      <webElementGuid>99dfea5a-b3a2-4723-8807-b2379ec4c8b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KG Media ID'])[1]/following::div[1]</value>
+      <webElementGuid>758211a0-6678-455b-b194-7a70cfd8e79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kompastest'])[1]/following::div[2]</value>
+      <webElementGuid>f5e07817-bc60-40cc-9d63-cb3dbebd78bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Profil'])[2]/preceding::div[1]</value>
+      <webElementGuid>ddfad4f8-385f-4e0a-be0a-a9a4e48783a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ganti Password'])[2]/preceding::div[2]</value>
+      <webElementGuid>928c33ca-6482-45d3-8568-0133599c05d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='talent@mailinator.com']/parent::*</value>
+      <webElementGuid>da051916-d086-4177-a9f8-83b8c12515f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[4]</value>
+      <webElementGuid>34130e28-5e3b-4921-aca9-e73821c43530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'talent@mailinator.com' or . = 'talent@mailinator.com')]</value>
+      <webElementGuid>b3e95d07-77f1-4d91-9168-50efb3a4e03d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

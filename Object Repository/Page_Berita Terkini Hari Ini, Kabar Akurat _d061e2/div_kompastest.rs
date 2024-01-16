@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_kompastest</name>
+   <tag></tag>
+   <elementGuidId>3e0176d7-c643-4603-9d40-a148fc329bfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sso__login__name.text-nowrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='sso__item']/a/span/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4b3ca3f4-9868-41a4-b5a1-9ffb6b1f0326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sso__login__name text-nowrap</value>
+      <webElementGuid>82fda1bc-f28b-4485-91af-f626d09e57b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kompastest</value>
+      <webElementGuid>03bf1459-1fe0-4d27-a6b7-7422092e5abc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sso__item&quot;)/a[1]/span[1]/div[@class=&quot;sso__login__detail&quot;]/div[@class=&quot;sso__login__name text-nowrap&quot;]</value>
+      <webElementGuid>7d8abe96-f309-42c9-993f-608e49861bd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='sso__item']/a/span/div/div</value>
+      <webElementGuid>3448b14f-c710-4e88-8e2c-5090254c8abe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Koin'])[1]/following::div[4]</value>
+      <webElementGuid>8ffb890f-5672-4672-965f-d6d5c6f47cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mode Terang'])[1]/following::div[5]</value>
+      <webElementGuid>93c8d026-150c-4d91-844c-2b40f0814d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='talent@mailinator.com'])[1]/preceding::div[1]</value>
+      <webElementGuid>b1dab51c-0591-4ab7-9324-288bffba08ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gabung Kompas.com+'])[1]/preceding::div[2]</value>
+      <webElementGuid>8615a40b-e613-48b1-8841-7ecf846e67fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='kompastest']/parent::*</value>
+      <webElementGuid>f24d898c-0e77-4a1e-b184-0f8583c78604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div</value>
+      <webElementGuid>6fb2cd49-20e0-4c7b-9c9e-c2af67002e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'kompastest' or . = 'kompastest')]</value>
+      <webElementGuid>27bd2db0-dc78-4f80-9a3f-cf5d2dfb53c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
